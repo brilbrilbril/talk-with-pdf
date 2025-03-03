@@ -11,6 +11,13 @@
     You can change the model or the parameter if you have better device.
 
 3. Clone this repository
+4. (Recommended) Use virtual environment from python or other library by creating venv.
+
+    ```python -m venv venv```
+
+    Then activate it using
+
+    ```venv/Scripts/activate```
 4. Install dependencies using ```pip install -r requirements.txt```
 
     ***Note***: Please tell me if there's missing dependecy because I forgot what dependencies I have installed.
