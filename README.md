@@ -1,4 +1,4 @@
-**Installation**
+## Installation
 1. Install Ollama [here](https://ollama.com/)
 2. Pull the embeddings model and LLM.
 
@@ -23,7 +23,7 @@
     ***Note***: Please tell me if there's missing dependecy because I forgot what dependencies I have installed.
 5.  Run ```streamlit run app/main.py```
 
-**How to Use**
+## How to Use
 1. Upload your PDF file.
     **Note**: You need to refresh the page if your PDF is not successfully uploaded 
 2. Click the ***Generate report*** to generate simple report from your PDF.
@@ -32,7 +32,7 @@
 
     Example: *what is diabetes?* **->** *explain me about diabetes.*
 
-**Weakness**
+## Weakness
 1. Rough interface design.
 2. It can't answer simple question like *"what is the title?"* or *"tell me about the section A"*
 3. The performance depends on device. If you are using GPU, then the the answer will generated faster. Vice versa.
