@@ -1,0 +1,8 @@
+streamlit
+nltk
+langchain==0.3.4
+langchain-ollama==0.2.0
+PyMuPDF==1.24.12
+langchain-core
+langchain_community
+rank_bm25
